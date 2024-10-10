@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "wiz" {
-  bucket = "my-tf-test-bucket"
+  bucket = "my-tf-test-bucket1"
 
   versioning {
     enabled = true
